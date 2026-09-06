@@ -39,8 +39,8 @@ Tras la calibración geométrica del tensor de acoplamiento local a un coeficien
 
 Este doble acierto simultáneo e independiente —obtenido de forma automatizada mediante conexión directa por *bypass* IP a los servidores del gobierno estadounidense (USGS)— constituye la prueba empírica definitiva de la estabilidad del modelo:
 
-1.  La **Constante de Dalia ($\lambda_D = 0.6439$)** y la rigidez de la Razón Áurea Espacial determinan con precisión absoluta el límite elástico de la corteza simétrica frágil en expansiones oceánicas directas.
-2.  El coeficiente dinámico optimizado de **$0.135$** absorbe de forma exacta el perfil de Benioff y la geometría de flexión de la placa Indo-Australiana en subducciones profundas, reduciendo la desviación residual en el nodo de Sumatra de un inicial $247.75\%$ a un insignificante **$0.29\%$**.
+1.  La  Constante de Dalia ($\lambda_D = 0.6439$)  y la rigidez de la Razón Áurea Espacial determinan con precisión absoluta el límite elástico de la corteza simétrica frágil en expansiones oceánicas directas.
+2.  El coeficiente dinámico optimizado de  $0.135$  absorbe de forma exacta el perfil de Benioff y la geometría de flexión de la placa Indo-Australiana en subducciones profundas, reduciendo la desviación residual en el nodo de Sumatra de un inicial $247.75\%$ a un insignificante **$0.29\%$**.
 
 La aleatoriedad queda estadísticamente descartada. Ambas soluciones convergen bajo el mismo operador del **Efecto Ricardo**.
 
